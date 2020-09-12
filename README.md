@@ -1,2 +1,1 @@
-# newblog
-my new blog
+写小说?
